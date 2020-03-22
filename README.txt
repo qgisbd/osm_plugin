@@ -1,10 +1,8 @@
 Plugin Builder Results
 
 Your plugin OsmPlugin was created in:
-    C:/Users/Boil_Admin/Documents/Code/Python/qgis/plugins\osm_plugin
 
 Your QGIS plugin directory is located at:
-    C:/Users/Boil_Admin/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
 
 What's Next:
 
